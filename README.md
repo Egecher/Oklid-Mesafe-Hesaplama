@@ -32,6 +32,6 @@ min_distance = min(distances)
 
 print(distances)
 print(min_distance)
-
+```
 
 ![Oklid Bağıntısı](./images/oklid-bagıntısı.png)
