@@ -1,0 +1,1 @@
+# -klid-Mesafe-Hesaplama
