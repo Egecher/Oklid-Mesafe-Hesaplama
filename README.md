@@ -1,1 +1,1 @@
-# -klid-Mesafe-Hesaplama
+# Oklid-Mesafe-Hesaplama
